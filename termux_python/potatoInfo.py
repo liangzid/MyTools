@@ -157,8 +157,8 @@ if __name__=="__main__":
     # saveData()
     # getChangeInfo()
     # getAllInformation()
-    father=''
-    sendMail()
+    father='lze13581072358@163.com'
+    sendMail(person=father)
 
 
 
